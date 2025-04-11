@@ -1,10 +1,6 @@
 
 # Hospitality Analytics Dashboard using PowerBI
 
-This project I learn from code basics youtube channel. you can find link is below.
-
-[Codebasic youtube playlist](https://www.youtube.com/watch?v=hhZ62IlTxYs&list=PLeo1K3hjS3uva8pk1FI3iK9kCOKQdz1I9)
-
 ## Project Overview
 This project analyzes hospitality data using Power BI to help hotels make data-driven decisions. The analysis focuses on tracking revenue, key performance indicators (KPIs), and market trends.
 
